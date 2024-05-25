@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Node.js
+node_modules/
+
+# Logs
+*.log
+
+# Build
+dist/
+bin/
+out/
+
+# IDEs
+.vscode/
+
+# Environment variables
+.env
+.env.local
+.env.*
+
+# API keys and certificates
+*.key
+*.pem
+*.crt
